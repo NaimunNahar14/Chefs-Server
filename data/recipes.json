@@ -1,0 +1,57 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "name": "Tareq Taylor",
+        "picture": "https://i.ibb.co/tH58nCr/190675.png",
+        "num_recipes": 59,
+        "likes": 150000,
+        "bio": "Tareq Taylor is a popular Bangladeshi chef who is known for his simple and elegant recipes that showcase the flavors of fresh, local ingredients. He has hosted several cooking shows on Bangladeshi television and is also the author of several cookbooks.",
+        "years_experience": 50
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "name": "Tony Khan",
+        "picture": "https://i.ibb.co/9pnbW2J/194823.png",
+        "num_recipes": 47,
+        "likes": 70000,
+        "bio": "Tony Khan is a renowned Bangladeshi chef who has worked in several high-end restaurants across the country. He is known for his ability to create unique and flavorful dishes using locally sourced ingredients. Tony is also an advocate for sustainable food practices and supports local farmers and fishermen.",
+        "years_experience": 30
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "name": "Kaiser Ahmed",
+        "picture": "https://i.ibb.co/qJN9hSK/607461.png",
+        "num_recipes": 25,
+        "likes": 120000,
+        "bio": "Kaiser Ahmed is a renowned Bangladeshi chef who has worked in several high-end restaurants across the country. He is known for his ability to create unique and flavorful dishes using locally sourced ingredients. Kaiser is also an advocate for sustainable food practices and supports local farmers and fishermen.",
+        "years_experience": 35
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "name": "Zahir Raihan",
+        "picture": "https://i.ibb.co/sFpp0BK/190673.png",
+        "num_recipes": 40,
+        "likes": 85000,
+        "bio": "Zahir Raihan is a Bangladeshi chef who has a passion for creating healthy and nutritious meals. He is the founder of a popular health food restaurant chain and has authored several cookbooks on healthy eating. Zahir is also an advocate for sustainable and organic food practices.",
+        "years_experience": 25
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "name": "Toufiq Imrose Khalidi",
+        "picture": "https://i.ibb.co/VtLrrXT/190679.png",
+        "num_recipes": 38,
+        "likes": 180000,
+        "bio": "Toufiq Imrose Khalidi is a Bangladeshi chef who is known for his expertise in preparing seafood dishes. He has worked in several high-end seafood restaurants across the country and is the author of a cookbook on Bangladeshi seafood. Toufiq is also an advocate for sustainable fishing practices and supports local fishermen.",
+        "years_experience": 30
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "name": "Sanjida Huq",
+        "picture": "https://i.ibb.co/WGmGrfd/1211161.png",
+        "num_recipes": 58,
+        "likes": 250000,
+        "bio": "Sanjida Huq is a popular Bangladeshi chef who is known for her innovative recipes that incorporate traditional Bangladeshi flavors with modern techniques. She has authored several cookbooks and has also hosted cooking shows on Bangladeshi television.",
+        "years_experience": 35
+    }
+    
+]
