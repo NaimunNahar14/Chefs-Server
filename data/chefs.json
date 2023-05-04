@@ -1,15 +1,204 @@
 [
-    {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "name": "Tareq Taylor",
-      "picture": "https://i.ibb.co/tH58nCr/190675.png",
-      "num_recipes": 59,
-      "likes": 150000,
-      "bio": "Tareq Taylor is a popular Bangladeshi chef who is known for his simple and elegant recipes that showcase the flavors of fresh, local ingredients. He has hosted several cooking shows on Bangladeshi television and is also the author of several cookbooks.",
-      "years_experience": 50,
-      "recipes": [
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "name": "Tareq Taylor",
+    "picture": "https://i.ibb.co/tH58nCr/190675.png",
+    "num_recipes": 59,
+    "likes": 150000,
+    "bio": "Tareq Taylor is a popular Bangladeshi chef who is known for his simple and elegant recipes that showcase the flavors of fresh, local ingredients. He has hosted several cooking shows on Bangladeshi television and is also the author of several cookbooks.",
+    "years_experience": 50,
+    "recipes": [
+
+      [
         {
-          "recipes_id": 1,
+        "recipes_id": 1,
+        "name": "Biriyani",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb. chicken or mutton",
+          "1 onion, sliced",
+          "2 cups water",
+          "1/2 cup yogurt",
+          "2 tbsp. ghee",
+          "1 tsp. ginger paste",
+          "1 tsp. garlic paste",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1/2 tsp. turmeric powder",
+          "2 bay leaves",
+          "4 cardamom pods",
+          "4 cloves",
+          "1 cinnamon stick",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Soak the rice in water for 30 minutes.\n2. Heat the ghee in a pot and fry the onions until golden brown.\n3. Add the chicken or mutton and fry until browned.\n4. Add the ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, bay leaves, cardamom pods, cloves, cinnamon stick, and salt. Fry for 2 minutes.\n5. Add the yogurt and fry for 5 minutes.\n6. Add the water and bring to a boil.\n7. Add the soaked rice and cook until the rice is done.\n8. Serve hot with raita and salad.",
+        "rating": 4.7
+      }
+    ],
+     [ 
+      {
+        "recipes_id": 2,
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "4 ilish fish",
+          "1 onion, sliced",
+          "1 tbsp. mustard seeds",
+          "1 tsp. turmeric powder",
+          "1 tsp. red chili powder",
+          "2 green chilies, sliced",
+          "2 tbsp. mustard oil",
+          "Salt to taste"
+        ],
+        "cooking_method": "1. Marinate the fish with turmeric powder and salt.\n2. Heat the mustard oil in a pan and fry the fish until browned. Remove and keep aside.\n3. Add the onion and fry until golden brown.\n4. Add the mustard seeds and fry for 1 minute.\n5. Add the turmeric powder, red chili powder, and salt. Fry for 2 minutes.\n6. Add 1 cup of water and bring to a boil.\n7. Add the fried fish and green chilies.\n8. Cover and cook for 10 minutes on low heat.\n9. Serve hot with steamed rice.",
+        "rating": 4.8
+      }
+    ],
+     [
+       {
+        "recipes_id": 3,
+          "name": "Chapli Kebab",
+          "ingredients": [
+            "1 lb. ground beef",
+            "1/2 cup finely chopped onion",
+            "2 tbsp. chopped cilantro",
+            "1 tbsp. ginger paste",
+            "1 tbsp. garlic paste",
+            "1 tsp. cumin powder",
+            "1 tsp. coriander powder",
+            "1/2 tsp. red chili powder",
+            "1/2 tsp. garam masala",
+            "1 egg",
+            "2 tbsp. oil",
+            "Salt to taste"
+          ],
+          "cooking_method": "1. In a large mixing bowl, combine the ground beef, onion, cilantro, ginger paste, garlic paste, cumin powder, coriander powder, red chili powder, garam masala, egg, and salt. Mix well.\n2. Form the mixture into small, thin patties.\n3. Heat the oil in a large skillet over medium heat. Add the patties and cook until browned on both sides and cooked through, about 5-7 minutes per side.\n4. Serve hot with green chutney or ketchup.",
+          "rating": 4.5
+        } 
+       ]
+    
+  ]
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "name": "Sanjida Huq",
+    "picture": "https://i.ibb.co/WGmGrfd/1211161.png",
+    "num_recipes": 58,
+    "likes": 250000,
+    "bio": "Sanjida Huq is a popular Bangladeshi chef who is known for her innovative recipes that incorporate traditional Bangladeshi flavors with modern techniques. She has authored several cookbooks and has also hosted cooking shows on Bangladeshi television.",
+    "years_experience": 35,
+    "recipes": [
+      [
+        {
+          "recipes_id": 4,
+          "name": "Bangladeshi Shingara",
+          "ingredients": ["2 cups all-purpose flour", "1/2 cup vegetable oil", "1/2 tsp salt", "1/4 tsp turmeric powder", "1/4 tsp cumin powder", "1/4 tsp coriander powder", "1/2 tsp chili powder", "1/2 cup onion, chopped", "1/2 cup potato, boiled and mashed", "1/2 cup peas, boiled", "1 tsp ginger paste", "1 tsp garlic paste", "1/2 tsp garam masala powder", "2 tbsp vegetable oil (for frying)", "1/2 cup water"],
+          "cooking_method": "1. In a mixing bowl, combine the flour, vegetable oil, salt, turmeric powder, cumin powder, coriander powder, and chili powder. Mix well. \n2. Add water gradually and knead the dough until it becomes smooth. \n3. Cover the dough and let it rest for 30 minutes.",
+          "rating": 4.9
+        }],
+       [ {
+          "recipes_id": 5,
+          "name": "Beef Curry",
+          "ingredients": ["1 lb beef", "2 onions", "3 cloves garlic", "1 inch ginger", "2 tomatoes", "2 green chilies", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "2 tbsp oil"],
+          "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and green chilies, and fry for another minute. \n3. Add the tomatoes and fry until they are soft. \n4. Add the beef and fry until it is browned on all sides. \n5. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n6. Add 2 cups of water and bring to a boil. \n7. Reduce the heat and let it simmer for about 45 minutes or until the beef is tender. \n8. Serve hot with rice.",
+          "rating": 4.5
+        }],
+      [  {
+          "recipes_id": 6,
+          "name": "Kacchi Biriyani",
+          "ingredients": ["1 kg basmati rice", "1 kg mutton", "4 onions", "2 cups yogurt", "2 tbsp ginger paste", "2 tbsp garlic paste", "2 tsp cumin powder", "2 tsp coriander powder", "2 tsp chili powder", "1 tsp turmeric powder", "1 tsp garam masala powder", "1 cup ghee", "1 cup oil", "2 tsp salt", "2 cups water", "1 tsp saffron", "1/2 cup milk"],
+          "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. \n2. Cut the mutton into medium sized pieces and marinate with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, chili powder, turmeric powder, garam masala powder, and salt for at least 4 hours. \n3. Fry the onions in oil until golden brown and keep it aside. \n4. In a large pot, add the marinated mutton and cook it for 15-20 minutes. \n5. Spread half of the rice on top of the mutton. \n6. Add a layer of fried onions on top of the rice. \n7. Spread the rest of the rice on top of the onions. \n8. Pour the ghee, water, and saffron-milk mixture on top of the rice. \n9. Cover the pot with a lid and cook on low heat for 45-50 minutes or until the rice is fully cooked. \n10. Serve hot with raita and salad.",
+          "rating": 4.9
+        }]
+
+    ]
+
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "name": "Tony Khan",
+    "picture": "https://i.ibb.co/9pnbW2J/194823.png",
+    "num_recipes": 47,
+    "likes": 70000,
+    "bio": "Tony Khan is a renowned Bangladeshi chef who has worked in several high-end restaurants across the country. He is known for his ability to create unique and flavorful dishes using locally sourced ingredients. Tony is also an advocate for sustainable food practices and supports local farmers and fishermen.",
+    "years_experience": 30,
+    "recipes": [
+      [{
+        "recipes_id": 7,
+          "name": "Chicken Korma",
+          "ingredients": ["1 lb chicken", "2 onions", "3 cloves garlic", "1 inch ginger", "2 tomatoes", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "1 cup yogurt", "2 tbsp oil"],
+          "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and tomatoes, and fry for another minute. \n3. Add the chicken and fry until it is browned on all sides. \n4. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n5. Add 2 cups of water and bring to a boil. \n6. Reduce the heat and let it simmer for about 30 minutes or until the chicken is tender. \n7. Add the yogurt and stir well. \n8. Cook for another 5 minutes. \n9. Serve hot with naan or rice.",
+          "rating": 4.8
+        }],
+       [ {
+          "recipes_id": 8,
+          "name": "Beef Bhuna",
+          "ingredients": ["1 lb beef", "2 onions", "3 garlic cloves", "1 inch ginger", "2 tomatoes", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp garam masala", "2 tbsp oil", "Salt to taste"],
+          "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. \n2. Add garlic, ginger, and fry for 1 minute. \n3. Add the tomatoes and cook until they are soft. \n4. Add the beef, salt, and all the spices and stir well. \n5. Add water and bring to a boil. \n6. Reduce heat to low and cover the pan. \n7. Cook for about 45-50 minutes or until the beef is tender and the water is absorbed. \n8. Serve hot with steamed rice or naan bread.",
+          "rating": 4.5
+        }],
+       [ {
+          "recipes_id": 8,
+          "name": "Shrimp Curry",
+          "ingredients": ["1 lb shrimp", "1 onion", "2 garlic cloves", "1 inch ginger", "2 tomatoes", "2 green chilies", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "2 tbsp oil"],
+          "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and green chilies, and fry for another minute. \n3. Add the tomatoes and fry until they are soft. \n4. Add the shrimp and fry until they are pink. \n5. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n6. Add 2 cups of water and bring to a boil. \n7. Reduce the heat and let it simmer for about 10 minutes or until the shrimp is cooked through. \n8. Serve hot with rice.",
+          "rating": 4.2
+        }]
+        
+
+    ]
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "name": "Kaiser Ahmed",
+    "picture": "https://i.ibb.co/qJN9hSK/607461.png",
+    "num_recipes": 25,
+    "likes": 120000,
+    "bio": "Kaiser Ahmed is a renowned Bangladeshi chef who has worked in several high-end restaurants across the country. He is known for his ability to create unique and flavorful dishes using locally sourced ingredients. Kaiser is also an advocate for sustainable food practices and supports local farmers and fishermen.",
+    "years_experience": 35,
+    "recipes": [
+      [
+        {
+        "recipes_id": 9,
+          "name": "Shrimp Curry",
+          "ingredients": ["1 lb shrimp", "1 onion", "2 garlic cloves", "1 inch ginger", "2 tomatoes", "2 green chilies", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "2 tbsp oil"],
+          "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and green chilies, and fry for another minute. \n3. Add the tomatoes and fry until they are soft. \n4. Add the shrimp and fry until they are pink. \n5. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n6. Add 2 cups of water and bring to a boil. \n7. Reduce the heat and let it simmer for about 10 minutes or until the shrimp is cooked through. \n8. Serve hot with rice.",
+          "rating": 4.2
+        }
+      ],
+        [
+          {
+          "recipes_id": "7",
+          "name": "Chicken Korma",
+          "ingredients": ["1 lb chicken", "2 onions", "3 cloves garlic", "1 inch ginger", "2 tomatoes", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "1 cup yogurt", "2 tbsp oil"],
+          "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and tomatoes, and fry for another minute. \n3. Add the chicken and fry until it is browned on all sides. \n4. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n5. Add 2 cups of water and bring to a boil. \n6. Reduce the heat and let it simmer for about 30 minutes or until the chicken is tender. \n7. Add the yogurt and stir well. \n8. Cook for another 5 minutes. \n9. Serve hot with naan or rice.",
+          "rating": 4.8
+        }
+      ],
+        [
+          {
+          "recipes_id": "8",
+          "name": "Beef Bhuna",
+          "ingredients": ["1 lb beef", "2 onions", "3 garlic cloves", "1 inch ginger", "2 tomatoes", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp garam masala", "2 tbsp oil", "Salt to taste"],
+          "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. \n2. Add garlic, ginger, and fry for 1 minute. \n3. Add the tomatoes and cook until they are soft. \n4. Add the beef, salt, and all the spices and stir well. \n5. Add water and bring to a boil. \n6. Reduce heat to low and cover the pan. \n7. Cook for about 45-50 minutes or until the beef is tender and the water is absorbed. \n8. Serve hot with steamed rice or naan bread.",
+          "rating": 4.5
+        }
+      ]
+
+    ]
+
+  },
+   {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "name": "Zahir Raihan",
+    "picture": "https://i.ibb.co/sFpp0BK/190673.png",
+    "num_recipes": 40,
+    "likes": 85000,
+    "bio": "Zahir Raihan is a Bangladeshi chef who has a passion for creating healthy and nutritious meals. He is the founder of a popular health food restaurant chain and has authored several cookbooks on healthy eating. Zahir is also an advocate for sustainable and organic food practices.",
+    "years_experience": 25,
+    "recipes": [
+     [
+       {
+        "recipes_id": "1",
           "name": "Biriyani",
           "ingredients": [
             "2 cups basmati rice",
@@ -31,9 +220,10 @@
           ],
           "cooking_method": "1. Soak the rice in water for 30 minutes.\n2. Heat the ghee in a pot and fry the onions until golden brown.\n3. Add the chicken or mutton and fry until browned.\n4. Add the ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, bay leaves, cardamom pods, cloves, cinnamon stick, and salt. Fry for 2 minutes.\n5. Add the yogurt and fry for 5 minutes.\n6. Add the water and bring to a boil.\n7. Add the soaked rice and cook until the rice is done.\n8. Serve hot with raita and salad.",
           "rating": 4.7
-        },
-        {
-          "recipes_id": 2,
+        }
+      ],
+       [ {
+          "recipes_id": "2",
           "name": "Shorshe Ilish",
           "ingredients": [
             "4 ilish fish",
@@ -47,248 +237,82 @@
           ],
           "cooking_method": "1. Marinate the fish with turmeric powder and salt.\n2. Heat the mustard oil in a pan and fry the fish until browned. Remove and keep aside.\n3. Add the onion and fry until golden brown.\n4. Add the mustard seeds and fry for 1 minute.\n5. Add the turmeric powder, red chili powder, and salt. Fry for 2 minutes.\n6. Add 1 cup of water and bring to a boil.\n7. Add the fried fish and green chilies.\n8. Cover and cook for 10 minutes on low heat.\n9. Serve hot with steamed rice.",
           "rating": 4.8
-        },
-        {
-          "recipes_id": 3,
-            "name": "Chapli Kebab",
-            "ingredients": [
-              "1 lb. ground beef",
-              "1/2 cup finely chopped onion",
-              "2 tbsp. chopped cilantro",
-              "1 tbsp. ginger paste",
-              "1 tbsp. garlic paste",
-              "1 tsp. cumin powder",
-              "1 tsp. coriander powder",
-              "1/2 tsp. red chili powder",
-              "1/2 tsp. garam masala",
-              "1 egg",
-              "2 tbsp. oil",
-              "Salt to taste"
-            ],
-            "cooking_method": "1. In a large mixing bowl, combine the ground beef, onion, cilantro, ginger paste, garlic paste, cumin powder, coriander powder, red chili powder, garam masala, egg, and salt. Mix well.\n2. Form the mixture into small, thin patties.\n3. Heat the oil in a large skillet over medium heat. Add the patties and cook until browned on both sides and cooked through, about 5-7 minutes per side.\n4. Serve hot with green chutney or ketchup.",
-            "rating": 4.5
-          }  
-      
+        }
+      ],
+        [
+          {
+          "recipes_id": "3",
+          "name": "Chapli Kebab",
+          "ingredients": [
+            "1 lb. ground beef",
+            "1/2 cup finely chopped onion",
+            "2 tbsp. chopped cilantro",
+            "1 tbsp. ginger paste",
+            "1 tbsp. garlic paste",
+            "1 tsp. cumin powder",
+            "1 tsp. coriander powder",
+            "1/2 tsp. red chili powder",
+            "1/2 tsp. garam masala",
+            "1 egg",
+            "2 tbsp. oil",
+            "Salt to taste"
+          ],
+          "cooking_method": "1. In a large mixing bowl, combine the ground beef, onion, cilantro, ginger paste, garlic paste, cumin powder, coriander powder, red chili powder, garam masala, egg, and salt. Mix well.\n2. Form the mixture into small, thin patties.\n3. Heat the oil in a large skillet over medium heat. Add the patties and cook until browned on both sides and cooked through, about 5-7 minutes per side.\n4. Serve hot with green chutney or ketchup.",
+          "rating": 4.5
+        }
+      ] 
+
     ]
-    },
-    {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
-      "name": "Sanjida Huq",
-      "picture": "https://i.ibb.co/WGmGrfd/1211161.png",
-      "num_recipes": 58,
-      "likes": 250000,
-      "bio": "Sanjida Huq is a popular Bangladeshi chef who is known for her innovative recipes that incorporate traditional Bangladeshi flavors with modern techniques. She has authored several cookbooks and has also hosted cooking shows on Bangladeshi television.",
-      "years_experience": 35,
-      "recipes": [
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "name": "Toufiq Imrose Khalidi",
+    "picture": "https://i.ibb.co/VtLrrXT/190679.png",
+    "num_recipes": 38,
+    "likes": 180000,
+    "bio": "Toufiq Imrose Khalidi is a Bangladeshi chef who is known for his expertise in preparing seafood dishes. He has worked in several high-end seafood restaurants across the country and is the author of a cookbook on Bangladeshi seafood. Toufiq is also an advocate for sustainable fishing practices and supports local fishermen.",
+    "years_experience": 30,
+    "recipes": [
+      [
         {
-            "recipes_id": 4,
-            "name": "Bangladeshi Shingara",
-            "ingredients": ["2 cups all-purpose flour", "1/2 cup vegetable oil", "1/2 tsp salt", "1/4 tsp turmeric powder", "1/4 tsp cumin powder", "1/4 tsp coriander powder", "1/2 tsp chili powder", "1/2 cup onion, chopped", "1/2 cup potato, boiled and mashed", "1/2 cup peas, boiled", "1 tsp ginger paste", "1 tsp garlic paste", "1/2 tsp garam masala powder", "2 tbsp vegetable oil (for frying)", "1/2 cup water"],
-            "cooking_method": "1. In a mixing bowl, combine the flour, vegetable oil, salt, turmeric powder, cumin powder, coriander powder, and chili powder. Mix well. \n2. Add water gradually and knead the dough until it becomes smooth. \n3. Cover the dough and let it rest for 30 minutes.",
-            "rating": 4.9
-          },
-          {
-            "recipes_id": 5,
-            "name": "Beef Curry",
-            "ingredients": ["1 lb beef", "2 onions", "3 cloves garlic", "1 inch ginger", "2 tomatoes", "2 green chilies", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "2 tbsp oil"],
-            "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and green chilies, and fry for another minute. \n3. Add the tomatoes and fry until they are soft. \n4. Add the beef and fry until it is browned on all sides. \n5. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n6. Add 2 cups of water and bring to a boil. \n7. Reduce the heat and let it simmer for about 45 minutes or until the beef is tender. \n8. Serve hot with rice.",
-            "rating": 4.5
-          },
-          {
-            "recipes_id": 6,
-            "name": "Kacchi Biriyani",
-            "ingredients": ["1 kg basmati rice", "1 kg mutton", "4 onions", "2 cups yogurt", "2 tbsp ginger paste", "2 tbsp garlic paste", "2 tsp cumin powder", "2 tsp coriander powder", "2 tsp chili powder", "1 tsp turmeric powder", "1 tsp garam masala powder", "1 cup ghee", "1 cup oil", "2 tsp salt", "2 cups water", "1 tsp saffron", "1/2 cup milk"],
-            "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. \n2. Cut the mutton into medium sized pieces and marinate with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, chili powder, turmeric powder, garam masala powder, and salt for at least 4 hours. \n3. Fry the onions in oil until golden brown and keep it aside. \n4. In a large pot, add the marinated mutton and cook it for 15-20 minutes. \n5. Spread half of the rice on top of the mutton. \n6. Add a layer of fried onions on top of the rice. \n7. Spread the rest of the rice on top of the onions. \n8. Pour the ghee, water, and saffron-milk mixture on top of the rice. \n9. Cover the pot with a lid and cook on low heat for 45-50 minutes or until the rice is fully cooked. \n10. Serve hot with raita and salad.",
-            "rating": 4.9
-          }
-
+        "recipes_id": "5",
+          "name": "Beef Curry",
+          "ingredients": ["1 lb beef", "2 onions", "3 cloves garlic", "1 inch ginger", "2 tomatoes", "2 green chilies", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "2 tbsp oil"],
+          "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and green chilies, and fry for another minute. \n3. Add the tomatoes and fry until they are soft. \n4. Add the beef and fry until it is browned on all sides. \n5. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n6. Add 2 cups of water and bring to a boil. \n7. Reduce the heat and let it simmer for about 45 minutes or until the beef is tender. \n8. Serve hot with rice.",
+          "rating": 4.5
+        }
+      ],
+       [ 
+        {
+          "recipes_id": "9",
+          "name": "Shrimp Curry",
+          "ingredients": ["1 lb shrimp", "1 onion", "2 garlic cloves", "1 inch ginger", "2 tomatoes", "2 green chilies", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "2 tbsp oil"],
+          "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and green chilies, and fry for another minute. \n3. Add the tomatoes and fry until they are soft. \n4. Add the shrimp and fry until they are pink. \n5. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n6. Add 2 cups of water and bring to a boil. \n7. Reduce the heat and let it simmer for about 10 minutes or until the shrimp is cooked through. \n8. Serve hot with rice.",
+          "rating": 4.2
+        }
+      ],
+       [ {
+          "recipes_id":"10",
+          "name": "Chapli Kebab",
+          "ingredients": [
+            "1 lb. ground beef",
+            "1/2 cup finely chopped onion",
+            "2 tbsp. chopped cilantro",
+            "1 tbsp. ginger paste",
+            "1 tbsp. garlic paste",
+            "1 tsp. cumin powder",
+            "1 tsp. coriander powder",
+            "1/2 tsp. red chili powder",
+            "1/2 tsp. garam masala",
+            "1 egg",
+            "2 tbsp. oil",
+            "Salt to taste"
+          ],
+          "cooking_method": "1. In a large mixing bowl, combine the ground beef, onion, cilantro, ginger paste, garlic paste, cumin powder, coriander powder, red chili powder, garam masala, egg, and salt. Mix well.\n2. Form the mixture into small, thin patties.\n3. Heat the oil in a large skillet over medium heat. Add the patties and cook until browned on both sides and cooked through, about 5-7 minutes per side.\n4. Serve hot with green chutney or ketchup.",
+          "rating": 4.5
+        } 
       ]
 
-    },
-    {
-      "_id": "f69a695f037cd9484cecaea37ca71011",
-      "name": "Tony Khan",
-      "picture": "https://i.ibb.co/9pnbW2J/194823.png",
-      "num_recipes": 47,
-      "likes": 70000,
-      "bio": "Tony Khan is a renowned Bangladeshi chef who has worked in several high-end restaurants across the country. He is known for his ability to create unique and flavorful dishes using locally sourced ingredients. Tony is also an advocate for sustainable food practices and supports local farmers and fishermen.",
-      "years_experience": 30,
-      "recipes": [
-        {
-          "recipes_id": 7,
-            "name": "Chicken Korma",
-            "ingredients": ["1 lb chicken", "2 onions", "3 cloves garlic", "1 inch ginger", "2 tomatoes", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "1 cup yogurt", "2 tbsp oil"],
-            "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and tomatoes, and fry for another minute. \n3. Add the chicken and fry until it is browned on all sides. \n4. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n5. Add 2 cups of water and bring to a boil. \n6. Reduce the heat and let it simmer for about 30 minutes or until the chicken is tender. \n7. Add the yogurt and stir well. \n8. Cook for another 5 minutes. \n9. Serve hot with naan or rice.",
-            "rating": 4.8
-          },
-          {
-            "recipes_id": 8,
-            "name": "Beef Bhuna",
-            "ingredients": ["1 lb beef", "2 onions", "3 garlic cloves", "1 inch ginger", "2 tomatoes", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp garam masala", "2 tbsp oil", "Salt to taste"],
-            "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. \n2. Add garlic, ginger, and fry for 1 minute. \n3. Add the tomatoes and cook until they are soft. \n4. Add the beef, salt, and all the spices and stir well. \n5. Add water and bring to a boil. \n6. Reduce heat to low and cover the pan. \n7. Cook for about 45-50 minutes or until the beef is tender and the water is absorbed. \n8. Serve hot with steamed rice or naan bread.",
-            "rating": 4.5
-          },
-          {
-            "recipes_id": 8,
-            "name": "Shrimp Curry",
-            "ingredients": ["1 lb shrimp", "1 onion", "2 garlic cloves", "1 inch ginger", "2 tomatoes", "2 green chilies", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "2 tbsp oil"],
-            "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and green chilies, and fry for another minute. \n3. Add the tomatoes and fry until they are soft. \n4. Add the shrimp and fry until they are pink. \n5. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n6. Add 2 cups of water and bring to a boil. \n7. Reduce the heat and let it simmer for about 10 minutes or until the shrimp is cooked through. \n8. Serve hot with rice.",
-            "rating": 4.2
-          }
-          
-
-      ]
-    },
-    {
-      "_id": "f69a695f037cd9484cecaea37ca71012",
-      "name": "Kaiser Ahmed",
-      "picture": "https://i.ibb.co/qJN9hSK/607461.png",
-      "num_recipes": 25,
-      "likes": 120000,
-      "bio": "Kaiser Ahmed is a renowned Bangladeshi chef who has worked in several high-end restaurants across the country. He is known for his ability to create unique and flavorful dishes using locally sourced ingredients. Kaiser is also an advocate for sustainable food practices and supports local farmers and fishermen.",
-      "years_experience": 35,
-      "recipes": [
-        {
-          "recipes_id": 9,
-            "name": "Shrimp Curry",
-            "ingredients": ["1 lb shrimp", "1 onion", "2 garlic cloves", "1 inch ginger", "2 tomatoes", "2 green chilies", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "2 tbsp oil"],
-            "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and green chilies, and fry for another minute. \n3. Add the tomatoes and fry until they are soft. \n4. Add the shrimp and fry until they are pink. \n5. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n6. Add 2 cups of water and bring to a boil. \n7. Reduce the heat and let it simmer for about 10 minutes or until the shrimp is cooked through. \n8. Serve hot with rice.",
-            "rating": 4.2
-          },
-          {
-            "recipes_id": "7",
-            "name": "Chicken Korma",
-            "ingredients": ["1 lb chicken", "2 onions", "3 cloves garlic", "1 inch ginger", "2 tomatoes", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "1 cup yogurt", "2 tbsp oil"],
-            "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and tomatoes, and fry for another minute. \n3. Add the chicken and fry until it is browned on all sides. \n4. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n5. Add 2 cups of water and bring to a boil. \n6. Reduce the heat and let it simmer for about 30 minutes or until the chicken is tender. \n7. Add the yogurt and stir well. \n8. Cook for another 5 minutes. \n9. Serve hot with naan or rice.",
-            "rating": 4.8
-          },
-          {
-            "recipes_id": "8",
-            "name": "Beef Bhuna",
-            "ingredients": ["1 lb beef", "2 onions", "3 garlic cloves", "1 inch ginger", "2 tomatoes", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp garam masala", "2 tbsp oil", "Salt to taste"],
-            "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. \n2. Add garlic, ginger, and fry for 1 minute. \n3. Add the tomatoes and cook until they are soft. \n4. Add the beef, salt, and all the spices and stir well. \n5. Add water and bring to a boil. \n6. Reduce heat to low and cover the pan. \n7. Cook for about 45-50 minutes or until the beef is tender and the water is absorbed. \n8. Serve hot with steamed rice or naan bread.",
-            "rating": 4.5
-          }
-
-      ]
-
-    },
-     {
-      "_id": "11468ed61aee84de492a8b04158a22f9",
-      "name": "Zahir Raihan",
-      "picture": "https://i.ibb.co/sFpp0BK/190673.png",
-      "num_recipes": 40,
-      "likes": 85000,
-      "bio": "Zahir Raihan is a Bangladeshi chef who has a passion for creating healthy and nutritious meals. He is the founder of a popular health food restaurant chain and has authored several cookbooks on healthy eating. Zahir is also an advocate for sustainable and organic food practices.",
-      "years_experience": 25,
-      "recipes": [
-        {
-          "recipes_id": "1",
-            "name": "Biriyani",
-            "ingredients": [
-              "2 cups basmati rice",
-              "1 lb. chicken or mutton",
-              "1 onion, sliced",
-              "2 cups water",
-              "1/2 cup yogurt",
-              "2 tbsp. ghee",
-              "1 tsp. ginger paste",
-              "1 tsp. garlic paste",
-              "1 tsp. cumin powder",
-              "1 tsp. coriander powder",
-              "1/2 tsp. turmeric powder",
-              "2 bay leaves",
-              "4 cardamom pods",
-              "4 cloves",
-              "1 cinnamon stick",
-              "Salt to taste"
-            ],
-            "cooking_method": "1. Soak the rice in water for 30 minutes.\n2. Heat the ghee in a pot and fry the onions until golden brown.\n3. Add the chicken or mutton and fry until browned.\n4. Add the ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, bay leaves, cardamom pods, cloves, cinnamon stick, and salt. Fry for 2 minutes.\n5. Add the yogurt and fry for 5 minutes.\n6. Add the water and bring to a boil.\n7. Add the soaked rice and cook until the rice is done.\n8. Serve hot with raita and salad.",
-            "rating": 4.7
-          },
-          {
-            "recipes_id": "2",
-            "name": "Shorshe Ilish",
-            "ingredients": [
-              "4 ilish fish",
-              "1 onion, sliced",
-              "1 tbsp. mustard seeds",
-              "1 tsp. turmeric powder",
-              "1 tsp. red chili powder",
-              "2 green chilies, sliced",
-              "2 tbsp. mustard oil",
-              "Salt to taste"
-            ],
-            "cooking_method": "1. Marinate the fish with turmeric powder and salt.\n2. Heat the mustard oil in a pan and fry the fish until browned. Remove and keep aside.\n3. Add the onion and fry until golden brown.\n4. Add the mustard seeds and fry for 1 minute.\n5. Add the turmeric powder, red chili powder, and salt. Fry for 2 minutes.\n6. Add 1 cup of water and bring to a boil.\n7. Add the fried fish and green chilies.\n8. Cover and cook for 10 minutes on low heat.\n9. Serve hot with steamed rice.",
-            "rating": 4.8
-          },
-          {
-            "recipes_id": "3",
-            "name": "Chapli Kebab",
-            "ingredients": [
-              "1 lb. ground beef",
-              "1/2 cup finely chopped onion",
-              "2 tbsp. chopped cilantro",
-              "1 tbsp. ginger paste",
-              "1 tbsp. garlic paste",
-              "1 tsp. cumin powder",
-              "1 tsp. coriander powder",
-              "1/2 tsp. red chili powder",
-              "1/2 tsp. garam masala",
-              "1 egg",
-              "2 tbsp. oil",
-              "Salt to taste"
-            ],
-            "cooking_method": "1. In a large mixing bowl, combine the ground beef, onion, cilantro, ginger paste, garlic paste, cumin powder, coriander powder, red chili powder, garam masala, egg, and salt. Mix well.\n2. Form the mixture into small, thin patties.\n3. Heat the oil in a large skillet over medium heat. Add the patties and cook until browned on both sides and cooked through, about 5-7 minutes per side.\n4. Serve hot with green chutney or ketchup.",
-            "rating": 4.5
-          } 
-
-      ]
-    },
-    {
-      "_id": "11468ed61aee84de492a8b04158a22f0",
-      "name": "Toufiq Imrose Khalidi",
-      "picture": "https://i.ibb.co/VtLrrXT/190679.png",
-      "num_recipes": 38,
-      "likes": 180000,
-      "bio": "Toufiq Imrose Khalidi is a Bangladeshi chef who is known for his expertise in preparing seafood dishes. He has worked in several high-end seafood restaurants across the country and is the author of a cookbook on Bangladeshi seafood. Toufiq is also an advocate for sustainable fishing practices and supports local fishermen.",
-      "years_experience": 30,
-      "recipes": [
-        {
-          "recipes_id": "5",
-            "name": "Beef Curry",
-            "ingredients": ["1 lb beef", "2 onions", "3 cloves garlic", "1 inch ginger", "2 tomatoes", "2 green chilies", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "2 tbsp oil"],
-            "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and green chilies, and fry for another minute. \n3. Add the tomatoes and fry until they are soft. \n4. Add the beef and fry until it is browned on all sides. \n5. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n6. Add 2 cups of water and bring to a boil. \n7. Reduce the heat and let it simmer for about 45 minutes or until the beef is tender. \n8. Serve hot with rice.",
-            "rating": 4.5
-          },
-          {
-            "recipes_id": "9",
-            "name": "Shrimp Curry",
-            "ingredients": ["1 lb shrimp", "1 onion", "2 garlic cloves", "1 inch ginger", "2 tomatoes", "2 green chilies", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "2 tbsp oil"],
-            "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and green chilies, and fry for another minute. \n3. Add the tomatoes and fry until they are soft. \n4. Add the shrimp and fry until they are pink. \n5. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n6. Add 2 cups of water and bring to a boil. \n7. Reduce the heat and let it simmer for about 10 minutes or until the shrimp is cooked through. \n8. Serve hot with rice.",
-            "rating": 4.2
-          },
-          {
-            "recipes_id": "",
-            "name": "Chapli Kebab",
-            "ingredients": [
-              "1 lb. ground beef",
-              "1/2 cup finely chopped onion",
-              "2 tbsp. chopped cilantro",
-              "1 tbsp. ginger paste",
-              "1 tbsp. garlic paste",
-              "1 tsp. cumin powder",
-              "1 tsp. coriander powder",
-              "1/2 tsp. red chili powder",
-              "1/2 tsp. garam masala",
-              "1 egg",
-              "2 tbsp. oil",
-              "Salt to taste"
-            ],
-            "cooking_method": "1. In a large mixing bowl, combine the ground beef, onion, cilantro, ginger paste, garlic paste, cumin powder, coriander powder, red chili powder, garam masala, egg, and salt. Mix well.\n2. Form the mixture into small, thin patties.\n3. Heat the oil in a large skillet over medium heat. Add the patties and cook until browned on both sides and cooked through, about 5-7 minutes per side.\n4. Serve hot with green chutney or ketchup.",
-            "rating": 4.5
-          } 
-
-      ]
-    }
-  ]
+    ]
+  }
+]
