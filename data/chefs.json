@@ -6,7 +6,7 @@
     "num_recipes": 59,
     "likes": 150000,
     "bio": "Tareq Taylor is a popular Bangladeshi chef who is known for his simple and elegant recipes that showcase the flavors of fresh, local ingredients. He has hosted several cooking shows on Bangladeshi television and is also the author of several cookbooks.",
-    "years_experience": 50,
+    "years_experience": 10,
     "recipes": [
 
       [
@@ -85,7 +85,7 @@
     "num_recipes": 58,
     "likes": 250000,
     "bio": "Sanjida Huq is a popular Bangladeshi chef who is known for her innovative recipes that incorporate traditional Bangladeshi flavors with modern techniques. She has authored several cookbooks and has also hosted cooking shows on Bangladeshi television.",
-    "years_experience": 35,
+    "years_experience": 15,
     "recipes": [
       [
         {
@@ -94,21 +94,25 @@
           "ingredients": ["2 cups all-purpose flour", "1/2 cup vegetable oil", "1/2 tsp salt", "1/4 tsp turmeric powder", "1/4 tsp cumin powder", "1/4 tsp coriander powder", "1/2 tsp chili powder", "1/2 cup onion, chopped", "1/2 cup potato, boiled and mashed", "1/2 cup peas, boiled", "1 tsp ginger paste", "1 tsp garlic paste", "1/2 tsp garam masala powder", "2 tbsp vegetable oil (for frying)", "1/2 cup water"],
           "cooking_method": "1. In a mixing bowl, combine the flour, vegetable oil, salt, turmeric powder, cumin powder, coriander powder, and chili powder. Mix well. \n2. Add water gradually and knead the dough until it becomes smooth. \n3. Cover the dough and let it rest for 30 minutes.",
           "rating": 4.9
-        }],
+        }
+      ],
        [ {
           "recipes_id": 5,
           "name": "Beef Curry",
           "ingredients": ["1 lb beef", "2 onions", "3 cloves garlic", "1 inch ginger", "2 tomatoes", "2 green chilies", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "2 tbsp oil"],
           "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and green chilies, and fry for another minute. \n3. Add the tomatoes and fry until they are soft. \n4. Add the beef and fry until it is browned on all sides. \n5. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n6. Add 2 cups of water and bring to a boil. \n7. Reduce the heat and let it simmer for about 45 minutes or until the beef is tender. \n8. Serve hot with rice.",
           "rating": 4.5
-        }],
-      [  {
+        }
+      ],
+      [  
+        {
           "recipes_id": 6,
           "name": "Kacchi Biriyani",
           "ingredients": ["1 kg basmati rice", "1 kg mutton", "4 onions", "2 cups yogurt", "2 tbsp ginger paste", "2 tbsp garlic paste", "2 tsp cumin powder", "2 tsp coriander powder", "2 tsp chili powder", "1 tsp turmeric powder", "1 tsp garam masala powder", "1 cup ghee", "1 cup oil", "2 tsp salt", "2 cups water", "1 tsp saffron", "1/2 cup milk"],
           "cooking_method": "1. Wash the rice and soak it in water for 30 minutes. \n2. Cut the mutton into medium sized pieces and marinate with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, chili powder, turmeric powder, garam masala powder, and salt for at least 4 hours. \n3. Fry the onions in oil until golden brown and keep it aside. \n4. In a large pot, add the marinated mutton and cook it for 15-20 minutes. \n5. Spread half of the rice on top of the mutton. \n6. Add a layer of fried onions on top of the rice. \n7. Spread the rest of the rice on top of the onions. \n8. Pour the ghee, water, and saffron-milk mixture on top of the rice. \n9. Cover the pot with a lid and cook on low heat for 45-50 minutes or until the rice is fully cooked. \n10. Serve hot with raita and salad.",
           "rating": 4.9
-        }]
+        }
+      ]
 
     ]
 
@@ -120,29 +124,35 @@
     "num_recipes": 47,
     "likes": 70000,
     "bio": "Tony Khan is a renowned Bangladeshi chef who has worked in several high-end restaurants across the country. He is known for his ability to create unique and flavorful dishes using locally sourced ingredients. Tony is also an advocate for sustainable food practices and supports local farmers and fishermen.",
-    "years_experience": 30,
+    "years_experience": 15,
     "recipes": [
-      [{
+      [
+        {
         "recipes_id": 7,
           "name": "Chicken Korma",
           "ingredients": ["1 lb chicken", "2 onions", "3 cloves garlic", "1 inch ginger", "2 tomatoes", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "1 cup yogurt", "2 tbsp oil"],
           "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and tomatoes, and fry for another minute. \n3. Add the chicken and fry until it is browned on all sides. \n4. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n5. Add 2 cups of water and bring to a boil. \n6. Reduce the heat and let it simmer for about 30 minutes or until the chicken is tender. \n7. Add the yogurt and stir well. \n8. Cook for another 5 minutes. \n9. Serve hot with naan or rice.",
           "rating": 4.8
-        }],
-       [ {
+        }
+      ],
+       [ 
+        {
           "recipes_id": 8,
           "name": "Beef Bhuna",
           "ingredients": ["1 lb beef", "2 onions", "3 garlic cloves", "1 inch ginger", "2 tomatoes", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp garam masala", "2 tbsp oil", "Salt to taste"],
           "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. \n2. Add garlic, ginger, and fry for 1 minute. \n3. Add the tomatoes and cook until they are soft. \n4. Add the beef, salt, and all the spices and stir well. \n5. Add water and bring to a boil. \n6. Reduce heat to low and cover the pan. \n7. Cook for about 45-50 minutes or until the beef is tender and the water is absorbed. \n8. Serve hot with steamed rice or naan bread.",
           "rating": 4.5
-        }],
-       [ {
+        }
+      ],
+       [ 
+        {
           "recipes_id": 8,
           "name": "Shrimp Curry",
           "ingredients": ["1 lb shrimp", "1 onion", "2 garlic cloves", "1 inch ginger", "2 tomatoes", "2 green chilies", "1 tsp cumin", "1 tsp coriander", "1 tsp turmeric", "1 tsp red chili powder", "1 tsp salt", "2 tbsp oil"],
           "cooking_method": "1. Heat oil in a pan and fry the onions until they are golden brown. \n2. Add the garlic, ginger, and green chilies, and fry for another minute. \n3. Add the tomatoes and fry until they are soft. \n4. Add the shrimp and fry until they are pink. \n5. Add the cumin, coriander, turmeric, chili powder, and salt, and stir well. \n6. Add 2 cups of water and bring to a boil. \n7. Reduce the heat and let it simmer for about 10 minutes or until the shrimp is cooked through. \n8. Serve hot with rice.",
           "rating": 4.2
-        }]
+        }
+      ]
         
 
     ]
@@ -154,7 +164,7 @@
     "num_recipes": 25,
     "likes": 120000,
     "bio": "Kaiser Ahmed is a renowned Bangladeshi chef who has worked in several high-end restaurants across the country. He is known for his ability to create unique and flavorful dishes using locally sourced ingredients. Kaiser is also an advocate for sustainable food practices and supports local farmers and fishermen.",
-    "years_experience": 35,
+    "years_experience": 8,
     "recipes": [
       [
         {
@@ -194,7 +204,7 @@
     "num_recipes": 40,
     "likes": 85000,
     "bio": "Zahir Raihan is a Bangladeshi chef who has a passion for creating healthy and nutritious meals. He is the founder of a popular health food restaurant chain and has authored several cookbooks on healthy eating. Zahir is also an advocate for sustainable and organic food practices.",
-    "years_experience": 25,
+    "years_experience": 7,
     "recipes": [
      [
        {
@@ -271,7 +281,7 @@
     "num_recipes": 38,
     "likes": 180000,
     "bio": "Toufiq Imrose Khalidi is a Bangladeshi chef who is known for his expertise in preparing seafood dishes. He has worked in several high-end seafood restaurants across the country and is the author of a cookbook on Bangladeshi seafood. Toufiq is also an advocate for sustainable fishing practices and supports local fishermen.",
-    "years_experience": 30,
+    "years_experience": 9,
     "recipes": [
       [
         {
